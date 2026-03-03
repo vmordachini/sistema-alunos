@@ -56,7 +56,7 @@ Com a API rodando, abra um novo terminal para iniciar a interface do usuário.
    ```bash
    cd frontend
    ```
- 2. Instale as dependências do projeto:
+2. Instale as dependências do projeto:
    ```bash
    npm install
    ```
